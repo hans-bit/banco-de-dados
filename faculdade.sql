@@ -1,0 +1,1 @@
+SELECT * FROM faculdade.alunos;
